@@ -1,6 +1,8 @@
+!(https://media.licdn.com/dms/image/D4E16AQGNK28rBaLHRw/profile-displaybackgroundimage-shrink_350_1400/0/1677512719869?e=1683158400&v=beta&t=jbaZSficgJEKDvfNB4pbG_g5jRfbOYYxLrtDXE9pDNs)
+
+##Español
 ### Hola 👋, mi nombre es Alejandro Torres
 #### Soy un desarrollador web fullstack
-![Soy un desarrollador web fullstack](https://media.licdn.com/dms/image/D4E16AQGNK28rBaLHRw/profile-displaybackgroundimage-shrink_350_1400/0/1677512719869?e=1683158400&v=beta&t=jbaZSficgJEKDvfNB4pbG_g5jRfbOYYxLrtDXE9pDNs)
 
 Soy una persona que ha estado muy interesada en el mundo de la programación y el desarrollo web desde hace varios años, pero decidi dar un paso mas allá en 2022, al iniciar mi vida académica alrededor de estas tecnologías.
 
@@ -16,8 +18,13 @@ Habilidades: JS / HTML / CSS / POSTGRESQL / EXPRESS / REACT / NODE
 - ⚡ Dato curioso: Puedo comunicarme de manera basica en 8 idiomas: Español, Inglés, Francés, Alemán, Japonés, Chino Mandarín, Papiamento y Lengua de Señas Colombiana 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/jalejotorresm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jalejotorresm5286/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/jalejotorresm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jalejotorresm5286/) 
 
+![Profile views](https://gpvc.arturio.dev/https://github.com/jalejotorresm)
+
+***
+
+##English
 ### Hi there 👋, my name is Alejandro Torres
 #### I am a fullstack web developer
 I am a person who has been very interested in the programming and web development world for a long time. I decided to take the plunge in 2022 by starting my academic life around those technologies.
