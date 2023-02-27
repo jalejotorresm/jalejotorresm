@@ -1,6 +1,6 @@
 ![](https://media.licdn.com/dms/image/D4E16AQGNK28rBaLHRw/profile-displaybackgroundimage-shrink_350_1400/0/1677512719869?e=1683158400&v=beta&t=jbaZSficgJEKDvfNB4pbG_g5jRfbOYYxLrtDXE9pDNs)
 
-##Español
+## Español
 ### Hola 👋, mi nombre es Alejandro Torres
 #### Soy un desarrollador web fullstack
 
@@ -24,7 +24,7 @@ Habilidades: JS / HTML / CSS / POSTGRESQL / EXPRESS / REACT / NODE
 
 ***
 
-##English
+## English
 ### Hi there 👋, my name is Alejandro Torres
 #### I am a fullstack web developer
 I am a person who has been very interested in the programming and web development world for a long time. I decided to take the plunge in 2022 by starting my academic life around those technologies.
