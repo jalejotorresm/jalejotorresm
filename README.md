@@ -1,4 +1,4 @@
-!(https://media.licdn.com/dms/image/D4E16AQGNK28rBaLHRw/profile-displaybackgroundimage-shrink_350_1400/0/1677512719869?e=1683158400&v=beta&t=jbaZSficgJEKDvfNB4pbG_g5jRfbOYYxLrtDXE9pDNs)
+![](https://media.licdn.com/dms/image/D4E16AQGNK28rBaLHRw/profile-displaybackgroundimage-shrink_350_1400/0/1677512719869?e=1683158400&v=beta&t=jbaZSficgJEKDvfNB4pbG_g5jRfbOYYxLrtDXE9pDNs)
 
 ##Español
 ### Hola 👋, mi nombre es Alejandro Torres
