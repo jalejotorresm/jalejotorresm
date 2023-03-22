@@ -18,9 +18,9 @@ Habilidades: JS / HTML / CSS / POSTGRESQL / EXPRESS / REACT / NODE
 - ⚡ Dato curioso: Puedo comunicarme de manera basica en 8 idiomas: Español, Inglés, Francés, Alemán, Japonés, Chino Mandarín, Papiamento y Lengua de Señas Colombiana 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/jalejotorresm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jalejotorresm5286/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jalejotorresm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jalejotorresm5286/) 
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/jalejotorresm)
+![Profile views](https://gpvc.arturio.dev/jalejotorresm)
 
 ***
 
