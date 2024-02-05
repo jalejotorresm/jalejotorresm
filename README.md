@@ -10,9 +10,11 @@ Al sol de hoy, he terminado 2 formaciones importantes como desarrollador web ful
 
 Mi experiencia laboral de mas de 9 años me ha dado varias habilidades relacionadas con la gestion de relaciones con clientes naturales y corporativos, asi como la pedagogia y la andragogia en el campo de las lenguas extranjeras.
 
-Habilidades: JS / HTML / CSS / SQL / POSTGRESQL / EXPRESS / REACT / NODE
+Lenguajes que manejo: JavaScript / Rust / Python / Java 
+Tecnologias que manejo: HTML / CSS / POSTGRESQL / EXPRESS / REACT / NODE
 
-- 🌱 Estoy aprendiendo NextJS, Java, Python y Rust 
+
+- 🌱 Estoy aprendiendo SQL, NextJS y Blockchain 
 - 💬 Pregúntame acerca de CSS3 y Aplicacion de Flexbox en diseño de aplicaciones web 
 - 📫 Cómo contactarme: alejandrotorres5286@gmail.com / +573505129603 
 - ⚡ Dato curioso: Puedo comunicarme de manera basica en 8 idiomas: Español, Inglés, Francés, Alemán, Japonés, Chino Mandarín, Papiamento y Lengua de Señas Colombiana 
@@ -33,9 +35,10 @@ Currently, I have completed 2 important certifications as a fullstack web develo
 
 My 9 year long work experience has given me several skills, related to the individual and corporate customer relation management, as well as to foreign languages pedagogy and andragogy.
 
-Skills: JS / HTML / CSS / SQL / POSTGRESQL / EXPRESS / REACT / NODE
+Languages I currently handle: JavaScript / Rust / Python / Java 
+Technologies I currently handle: HTML / CSS / POSTGRESQL / EXPRESS / REACT / NODE
 
-- 🌱 I’m currently learning NextJS, Java, Python and Rust 
+- 🌱 I’m currently learning SQL, NextJS y Blockchain 
 - 💬 Ask me about CSS3 and Flexbox Application on web apps design 
 - 📫 How to reach me: alejandrotorres5286@gmail.com / +573505129603 
 - ⚡ Fun fact: I can communicate in a basic level in 8 languages: Spanish, English, French, German, Japanese, Mandarin, Papiamento and Colombian Sign Language 
